@@ -118,10 +118,11 @@ background-color: #404bbf;
     text-transform: capitalize;
 }
 .team-list {
-    background-color: #ffffff;
 }
 
-.team-item {}
+.team-item {
+    background-color: #ffffff;
+}
 
 .team-img {}
 
