@@ -57,7 +57,7 @@ color: #404bbf;
 }
 /* hero */
 .hero{
-background-image: #2e2f42;
+background-color: #2e2f42;
 }
 .hero-title {
     font-weight: 700;
@@ -65,6 +65,7 @@ background-image: #2e2f42;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #fff;
 }
 .hero-btn{
     font-weight: 500;
@@ -181,8 +182,11 @@ background-color: #404bbf;
     color: #434455;
 }
 /* ----footer  */
+.footer {
+background-color: #2e2f42;
+}
 .footer-logo {
-font-weight: 700;
+ font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
